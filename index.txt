@@ -1,1 +1,3 @@
 lista spesa:
+-piatti di plastica 
+-bicchieri di plastica 
